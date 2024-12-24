@@ -1,3 +1,4 @@
 **/EEET2574_Assignment2_data/
 data/
 .ipynb_checkpoints/
+utils/__pycache__/
